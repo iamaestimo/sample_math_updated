@@ -7,7 +7,7 @@ defmodule SampleMath do
   def mult(num_1, num_2), do: num_1 * num_2
 
   @doc "Add two numbers"
-  def sum(num_1, num_2), do: num_1 + num_1
+  def sum(num_1, num_2), do: num_1 + num_2
 
   @doc "Divide two numbers"
   def div(num_1, num_2), do: num_1 / num_2
